@@ -5,8 +5,8 @@ This repository contains the Python codes (.py files) developed in PyTorch for t
 The code provides the implementation of the deep learning model and the associated analysis tools discussed in the manuscript.  
 
 ### Code Description
-Deep neural network.py: This script contains the core implementation of the spatially-informed deep neural network (DNN) model. It includes the model architecture, training loop, and validation procedures.
-Kernel Density Estimation (KDE).py: This script implements the Kernel Density Estimation analysis, which is a key component of the model's interpretability framework as described in the paper.
+#### Deep neural network.py: This script contains the core implementation of the spatially-informed deep neural network (DNN) model. It includes the model architecture, training loop, and validation procedures.
+#### Kernel Density Estimation (KDE).py: This script implements the Kernel Density Estimation analysis, which is a key component of the model's interpretability framework as described in the paper.
 
 ### Requirements
 The code is written in Python 3. The major dependencies include:   
